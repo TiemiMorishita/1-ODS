@@ -1,0 +1,69 @@
+.wrapper{
+    width: 100%;
+    height: 4000px;
+    left: 0;
+    top: 0;
+    position: absolute;
+    background-color: #111111;
+}
+
+#logo{
+    height: 32px;
+    position: relative;
+}
+
+#p{
+    width: 100%;
+}
+
+.q{
+    position: absolute;
+    width: 100%;
+    height: 520px;
+    left: 0px;
+    top: 100px;
+    background: #00000080;
+}
+
+.titulo{
+    position: absolute;
+    left: 180px;
+    top: 12%;
+    font-family: 'Fraunces';
+    font-weight: 10;
+    font-size: 116px;
+    line-height: 120px;
+    /* or 113% */
+    color: #FFFFFF;
+}
+
+.rosa{
+    color: #D40C3D;
+}
+
+.b{
+    position: absolute;
+    left: 185px;
+    top: 72%;
+    width: 220px;
+    height: 43px;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    background: #D40C3D;
+}
+
+.texto-b{
+    left: 190px;
+    top: 87%;
+    font-family: 'Montserrat';
+    color: #FFFFFF;
+    position: absolute;
+}
+
+#c{
+    position: absolute;
+    height: 70px;
+    left: 420px;
+    top: 69.5%;
+
+}
