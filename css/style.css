@@ -1,275 +1,141 @@
-.wrapper{
-    width: 100%;
-    height: 3800px;
-    left: 0;
-    top: 0;
-    position: absolute;
+body{
     background-color: #111111;
 }
 
-#logo{
-    height: 32px;
-    position: relative;
-}
-
-#p{
-    width: 100%;
-}
-
-.q{
+.wrapper{
     position: absolute;
     width: 100%;
-    height: 13%;
+    height: 100%;
     left: 0;
-    top: 2.5%;
-    background: #00000080;
+    top: 0;
+}
+
+.capa{
+    width: 100%;
+    height: 100%;
+}
+
+#capa1{
+    position: relative;
+    background: url(../img/p.jpg) center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
 }
 
 .titulo{
     position: absolute;
-    left: 13%;
-    top: 12%;
+    width: 100%;
+    top: 3%;
+    background-color: #00000080;
+    padding: 4%;
+    padding-left: 13vw;
+
+
     font-family: 'Fraunces';
     font-weight: 10;
-    font-size: 115px;
+    font-size: min(115px, 14vw);
     line-height: 100%;
     color: #FFFFFF;
 }
 
-.rosa{
-    color: #D40C3D;
-}
-
 .b{
-    position: absolute;
-    left: 13%;
-    top: 71%;
-    width: 18%;
-    height: 9%;
-    border-radius: 5px;
     background: #D40C3D;
-}
-
-.texto-b{
-    left: 12%;
-    top: 15%;
     font-family: 'Montserrat';
     color: #FFFFFF;
-    position: absolute;
-    font-size: 20px;
 }
 
-#c{
-    position: absolute;
-    height: 15%;
-    left: 32%;
-    top: 68%;
-
-}
-
-.conteiner{
-    position: absolute;
-    width: 84%;
-    left: 8%;
-    top: 20%;
+.c{
+    position: relative;
+    top: -300px;
     background: #D40C3D;
+    max-width: 90%;
+}
+
+.titulo1{
+    font-family: 'Fraunces';
+    font-weight: 400;
+    padding-bottom: 4%;
+    text-shadow: 1px 3px 0px #D40C3D;
+}
+
+.texto{
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: min(19px, 3vw);
+}
+
+.c2{
+    position: relative;
+    top: -200px;
+    background: #000000;
+    padding: 4%;
+}
+
+#p2{
+    max-width: 90%;
+    filter: drop-shadow(20px 20px 0px #D40C3D);
+    border-radius: 20px;
+}
+.carrossel{
+    position: relative;
+    top: -100px;
+}
+
+.q2{
+    position: relative;
+    padding: 6%;
+    background: #000000d8;
+    border-radius: 20px;
 }
 
 .titulo2{
     font-family: 'Fraunces';
     font-weight: 400;
-    font-size: 60px;
-    height: 100px;
+    font-size: min(45px, 6vw);
+    text-shadow: 0.5px 1.5px 0px #D40C3D;
 }
 
-.texto{
-    width: 95%;
+.texto1{
     font-family: 'Montserrat';
     font-weight: 500;
-    font-size: 19px;
+    font-size: min(19px, 2vw);
 }
 
-.q2{
-    position: absolute;
-    width: 100%;
-    height: 18%;
-    left: 0;
-    top: 41%;
-    background: #000000;
-}
-
-.titulo3{
-    position: absolute;
-    left: 45%;
-    top: 4%;
-    font-family: 'Fraunces';
-    font-weight: 400;
-    font-size: 60px;
-    color: #FFFFFF;
-}
-
-.texto2{
-    position: absolute;
-    width: 48%;
-    height: 80%;
-    left: 45%;
-    top: 22%;
+.texto-r{
     font-family: 'Montserrat';
     font-weight: 500;
-    font-size: 20px;
-    line-height: 140%;
-    color: #FFFFFF;
+    font-size: min(19px, 3vw);
+    max-width: 50%;
+    padding-left: 5%;
+    padding-bottom: 10%;
 }
 
-#p2{
-    position: absolute;
-    left: 8%;
-    top: 7%;
-    height: 82%;
-}
-
-.q3{
-    position: absolute;
-    background: #D40C3D;
-    height: 81%;
-    width: 28%;
-    left: 10%;
-    border-radius: 1%;
-    top: 12%;
-}
-
-.q4{
-    position: absolute;
-    width: 100%;
-    height: 16%;
-    left: 0;
-    bottom: 12%;
-    background: #D40C3D;
-}
-
-.carrossel{
-    position: absolute;
-    width: 84%;
-    left: 8%;
-    top: 63.5%;
-}
-
-.q5{
-    position: absolute;
-    width: 100%;
-    height: 31%;
-    left: 0;
-    bottom: 0;
-    background: #000000ab;
-}
-
-.meta{
-    font-family: 'Fraunces';
-    font-size: 35px;
-    text-shadow: 0px 8px 4px #000000;
-}
-
-.texto-metas{
+.link{
     font-family: 'Montserrat';
-    font-weight: 500;
-    font-size: 19px;
-    text-shadow: 0px 8px 4px #000000;
-}
-
-.rodape{
-    position: absolute;
-    width: 100%;
-    height: 14%;
-    left: 0;
-    bottom: 0;
-    background: #000000;
-}
-
-.titulo4{
-    position: absolute;
-    left: 15%;
-    top: 10%;
-    font-family: 'Fraunces';
-    font-weight: 300;
-    font-size: 45px;
-    color: #FFFFFF;
-}
-
-.texto3{
-    position: absolute;
-    width: 23%;
-    left: 15%;
-    top: 30%;
-    font-family: 'Montserrat';
-    font-weight: 400;
-    font-size: 25px;
-    color: #FFFFFF;
-}
-
-.sm{
-    position: absolute;
-    left: 56%;
-    top: 9.5%;
-    font-family: 'Montserrat';
-    font-size: 20px;
-    line-height: 220%;
-}
-
-.titulo5{
-    font-family: 'Fraunces';
-    font-weight: 300;
-    font-size: 40px;
+    padding-left: 5%;
+    padding-bottom: 10%;
 }
 
 a:link{
     color: #D40C3D;
     text-decoration: none;
+
 }
 
 a:visited{
     color: #D40C3D;
     text-decoration: none;
+
 }
 
 .traco{
-    position: absolute;
-    width: 80%;
+    width: 100%;
     height: 3px;
-    left: 10%;
-    bottom: 21%;
     background: #FFFFFF;
     transform: matrix(1, 0, 0, -1, 0, 0);
 }
 
-#icon1{
-    position: absolute;
-    height: 8%;
-    left: 12%;
-    bottom: 6.7%;
-}
-
-#icon1:active{
-    transform: scale(0.9);
-}
-
-#icon2{
-    position: absolute;
-    height: 7%;
-    left: 18.1%;
-    bottom: 7%;
-}
-
-#icon2:active{
-    transform: scale(0.9);
-}
-
-#icon3{
-    position: absolute;
-    height: 7%;
-    left: 22.5%;
-    bottom: 7%;
-}
-
-#icon3:active{
-    transform: scale(0.9);
+#icon{
+    height: 32px;
 }
