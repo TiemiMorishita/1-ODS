@@ -27,16 +27,39 @@
 
     <link rel="stylesheet" href="css/style.css" type="text/css">
 
+    <link rel="shortcut icon" href="img/onu.ico" type="image/x-icon">
+
 </head>
 <body>
   <div class="wrapper">
     <!--Barra de Navegação-->
 
-        <nav class="navbar navbar-expand-sm bg-transparent navbar-dark">
+        <nav class="navbar navbar-expand-sm">
           <div class="container-fluid">
             <a class="navbar-brand" href="https://brasil.un.org/pt-br/sdgs/1"><img src="img/logo.png" style="height: 32px;"></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="collapsibleNavbar">
+              <ul class="navbar-nav">
+                <li class="nav-item">
+                  <a class="nav-link" href="#ods">O que é ODS?</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#pobreza">Pobreza</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#metas">Metas</a>
+                </li>    
+                <li class="nav-item">
+                  <a class="nav-link" href="#noticias">Notícias</a>
+                </li>    
+              </ul>
+            </div>
           </div>
         </nav>
+
+        
     
     <!--Barra de Navegação-->
     <!--Capa-->
@@ -67,10 +90,12 @@
     </div>
 
     <!--Capa-->
-
+ 
     <!--texto1-->
 
+
     <div class="container p-5 my-5 text-white c">
+      <div id="ods"></div>
           <script>texto();</script>
     </div>
 
@@ -79,6 +104,7 @@
     <!--texto2-->
 
     <div class="container-fluid c2">
+      <div id="pobreza"></div>
       <div class="row">
         <div class="col-sm-5 p-3"><img src="img/p2.jpg" id="p2"></div>
         <div class="col-sm-7 p-3 text-white ">
@@ -97,6 +123,7 @@
         <!--texto3-->
 
         <div class="container carrossel">
+          <div id="metas"></div>
           <!-- Carousel -->
     <div id="demo" class="carousel slide" data-bs-ride="carousel">
     
@@ -155,11 +182,11 @@
           <div class="container mt-3">
             <div class="row">
           
-              <div class="col p-3 text-white">
+              <div class="col-sm-6 p-3 text-white">
                 <h1 class="titulo1" style="padding: 5%;">Erradicação da Pobreza</h1>
                 <p class="texto-r">Acabar com a pobreza em todas as suas formas, em todos os lugares.</p>
               </div>
-              <div class="col p-3  text-white">
+              <div class="col-sm-6 p-3  text-white">
                 <h1 class="titulo1" style="padding: 5%;">Saiba mais!</h1>
                 <div class="link">
                 <ul class="nav flex-column">
