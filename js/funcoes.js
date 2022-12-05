@@ -104,7 +104,7 @@ function texto(){
 
       document.write(
         "<div class='col'>"+
-        "<p class='text-white texto2'>" + x[i].getElementsByTagName("subtitulo")[0].childNodes[0].nodeValue + "</p>" +
+        "<p class='text-white texto2'  style='margin-left: 5%;'>" + x[i].getElementsByTagName("subtitulo")[0].childNodes[0].nodeValue + "</p>" +
       "</div>"
       );
     }
@@ -142,4 +142,33 @@ function texto(){
             "<p><a href='" +  x[i].getElementsByTagName("link")[0].childNodes[0].nodeValue + "'class='btn b text-white'>Notícia Original</a></p>"
       );
     }
+
+    function f6(){
+    //Armazena a URL completa, ex: http://localhost:81/blog/postagem.html?codigo_postagem=2
+    url = new URL(window.location.href);
+    //Armazena o parâmetro, ex: codigo_postagem=2
+    parametro = url.searchParams;
+    //Armazena a id, ex: 2
+    i = parametro.get("codigo_postagem");
+
+    for(a = x.length-1; a >= 0; a--){
+
+      if(a != i){
+          
+      document.write( 
+        "<div class='col-sm-4 p-3 text-white'>" +
+        "<div class='card n1'>" +
+        "<div class='card-body'>" +
+          "<h2 class='card-title titulo1'>" + x[a].getElementsByTagName("titulo")[0].childNodes[0].nodeValue + "</h2>" +
+          "<p class='card-text texto2'>" + x[a].getElementsByTagName("subtitulo")[0].childNodes[0].nodeValue.substr(0,85) + "...</p>" +
+          "<p class='card-text text-muted texto2'>" +  x[a].getElementsByTagName("data")[0].childNodes[0].nodeValue + "</p>" +
+          "<p><a href='postagem.html?codigo_postagem=" + a + "' class='btn text-white b'>Saiba Mais!</a></p>" +
+        "</div>" +
+        "</div>" +
+      "</div>"
+        );
+      }
+    }
+  }
+
 
