@@ -1,16 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <conteudo>
-    <postagem>
+    <texto1>
         <titulo>O que é ODS?</titulo>
         <texto>ODS é a sigla para Objetivos de Desenvolvimento Sustentável, determinados em 2015 pela Assembleia Geral das Nações Unidas (AGNU), composta por 193 Estados-membros da ONU. Ao todo, são 17 objetivos e 169 metas globais interconectados a serem atingidos até 2030, estabelecidos na Agenda 2030.</texto>
-    </postagem>
-    <postagem>
+    </texto1>
+    <texto1>
         <texto>Eles contemplam o desenvolvimento socioeconômico sustentável mundial e passam por pautas como saúde, educação, água, energia, meio ambiente e igualdade de gênero, dentre inúmeros outros.</texto>
-    </postagem>
-    <postagem>
+    </texto1>
+    <texto1>
         <texto>Os ODS foram definidos a partir de uma negociação mundial iniciada em 2013, mas estabelecidos somente em 2015, durante a conferência Rio +20. O Brasil participou ativamente do processo e sinalizou a erradicação da pobreza como prioridade do país.</texto>
-    </postagem>
-        <postagem>
+    </texto1>
+        <texto1>
         <texto>Em poucas palavras, o propósito dos Objetivos de Desenvolvimento Sustentável é garantir que todas as pessoas no mundo possam desfrutar de paz e prosperidade.</texto>
+    </texto1>
+
+        <postagem>
+        <capa>p13.jpg</capa>
+        <imagem>p12.jpg</imagem>
+        <imagem2>p11.jpg</imagem2>
+        <titulo>América Latina: pobreza geral diminui, mas pobreza extrema afeta 82 milhões de pessoas em 2022</titulo>
+        <subtitulo>A pobreza extrema afetará 82 milhões de pessoas na América Latina em 2022, apesar da redução da pobreza em geral, em um contexto de desaceleração econômica e de inflação alta - alertou a Comissão Econômica para a América Latina e o Caribe (Cepal), nesta quinta-feira (24).</subtitulo>
+        <data>25/11/2022</data>
+        <p1>"Não se conseguiu inverter os impactos da pandemia em termos de pobreza e pobreza extrema, e os países enfrentam uma crise silenciosa na educação, que afeta o futuro das novas gerações", afirmou o secretário-executivo da Cepal, José Manuel Salazar-Xirinachs, ao apresentar o relatório "Panorama Social da América Latina e Caribe 2022".</p1>
+        <corpo>Segundo a Cepal, em 2021 a taxa de pobreza na América Latina atingiu 32,3% da população total, marcando uma queda de 0,5 ponto percentual em relação a 2020. Em 2022, o percentual cairá ligeiramente, para 32,1%, o equivalente a 201 milhões de pessoas.texto1
+
+        Já a pobreza extrema chegará a 13,1% este ano, o que representa 82 milhões de pessoas. Em 2021, esse número foi de 12,9% da população regional.
+
+        A explicação para esse aumento da pobreza mais aguda são os "efeitos combinados do crescimento econômico, da dinâmica do mercado de trabalho e da inflação". Se comparado a 2019, ano anterior à pandemia, haverá mais 12 milhões de pessoas em extrema pobreza e mais 15 milhões em situação de pobreza, segundo a Cepal.
+
+        Os níveis projetados de pobreza extrema em 2022 representam "um retrocesso de um quarto de século para a região", acrescentou o órgão regional com sede em Santiago.
+
+        Na educação, América Latina e Caribe sofrem as consequências do tempo prolongado em que as escolas ficaram fechadas durante os dois primeiros anos da pandemia: em média, 70 semanas de fechamento dos estabelecimentos de ensino, contra 41 semanas no restante do mundo.
+
+        As consequências desse grande apagão educacional já são visíveis, adverte a Cepal. Na América Latina e no Caribe, o percentual de jovens (18 a 24 anos) que não estudam nem trabalham de forma remunerada aumentou de 22,3%, em 2019, para 28,7%, em 2020.</corpo>
+        <link>https://g1.globo.com/economia/noticia/2022/10/05/mundo-nao-eliminara-pobreza-extrema-em-2030-alerta-banco-mundial.ghtml</link>
+    </postagem>
+
+
+    <postagem>
+        <capa>p8.jpg</capa>
+        <imagem>p9.jpg</imagem>
+        <imagem2>p10.jpg</imagem2>
+        <titulo>São os mais ricos, e não os pobres, que devem viver de modo mais sustentável, indica pesquisa</titulo>
+        <subtitulo>Estudo evidencia mudanças necessárias para reduzir o impacto ambiental dentro da erradicação da pobreza</subtitulo>
+        <data>21/11/2022</data>
+        <p1>Um estudo publicado na Nature Sustainability investigou como diminuir os impactos ambientais dentro da luta contra a erradicação da pobreza. De acordo com os dados levantados, pesquisadores concluíram que diversas mudanças estruturais devem ser feitas, principalmente dentro da população mais rica do planeta. </p1>
+        <corpo>Outras mudanças sugeridas pela pesquisa incluem a gestão sustentável de outros recursos, como água, energia, infraestrutura e alimentos. 
+
+        O objetivo do estudo é reduzir os possíveis efeitos ambientais negativos dentro dessa transição, que foram evidenciados dentro dos dados coletados. A pesquisa evidenciou, por exemplo, que se a erradicação da pobreza fosse atingida em 2018, as emissões de gases de efeito estufa aumentariam de 15% a 26%. Similarmente, o uso do solo e da água também seria aumentaria em 2% a 5%. 
+
+        Entretanto, nenhum desses impactos é tão relevante quanto os efeitos ambientais derivados do 5% mais rico da população. 
+
+        Um outro estudo, também publicado na Nature Sustainability, evidenciou esses impactos. De acordo com o que foi levantado, 10% da população é responsável por 50% das emissões de gases do efeito estufa, enquanto 50% mais pobres da população mundial representam apenas 12% das emissões globais. 
+
+        Os dados da segunda pesquisa indicam os valores de 2019. Porém, esse padrão se repete desde 1990, em que os ricos possuem uma maior responsabilidade dentro da destruição do planeta. 
+
+        Por isso, o foco de ações na diminuição de impactos ambientais dentro da erradicação de pobreza e em geral, deve ocorrer principalmente na população mais rica. 
+
+        Crelis Rammelt, professor assistente de geografia ambiental e estudos de desenvolvimento na Universidade de Amsterdã e líder da pesquisa mais recente enfatiza isso: 
+
+        “Nossa pesquisa é importante porque muitas pessoas assumem que atender às necessidades dos mais pobres é possível sem grandes redistribuições e transformações na sociedade. (…) No entanto, é importante enquadrar esses potenciais impactos no contexto de desigualdades mais amplas no uso de recursos e impactos ambientais hoje. São os ricos que se apropriam da maior parte dos recursos da Terra, não os pobres.”
+
+        Chukwumerije Okereke, co-autor da pesquisa e professor da Universidade Federal Alex Ekwueme, também reforça que a ênfase dessas mudanças deve ocorrer na promoção de meios sustentáveis para acabar com a desigualdade social, e não na responsabilização de países mais pobres sobre seus atos na luta contra a erradicação da pobreza. 
+
+        Entre as soluções sugeridas na pesquisa, dentro do que pode ser feito na redução dos impactos da população rica, pesquisadores reforçam uma possível implementação de impostos sobre o alto consumo ou a promoção de tecnologias sustentáveis. </corpo>
+        <link>https://www.ecycle.com.br/populacao-mais-rica-deve-aprender-a-viver-de-modo-sustentavel-indica-pesquisa/</link>
+    </postagem>
+
+
+    <postagem>
+        <capa>p5.jpg</capa>
+        <imagem>p6.jpg</imagem>
+        <imagem2>p7.jpg</imagem2>
+        <titulo>Pobreza e extrema pobreza batem recorde no Brasil sob governo Bolsonaro</titulo>
+        <subtitulo>O crescimento da miséria foi causado tanto pela pandemia do novo coronavírus quanto pelo descaso do governo da extrema direita para com o povo brasileiro</subtitulo>
+        <data>04/12/2022</data>
+        <p1>A Central dos Trabalhadores e Trabalhadoras do Brasil (CTB) publicou em seu site artigo sobre a “sinistra herança” que será deixada por Jair Bolsonaro, destacando “o aumento da pobreza no país, que em 2021 castigou 62,5 milhões de brasileiros e brasileiras (29,4% da população). Desses, 17,9 milhões de brasileiros (8,4%) se encontravam na extrema pobreza ano passado, passando fome e toda sorte de dificuldades”. </p1>
+        <corpo>“A pobreza e a extrema pobreza bateram recorde no país em 2021, conforme informações divulgadas nesta sexta-feira (2) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Nos dois casos, os níveis são os mais altos da série do IBGE iniciada em 2012”.
+
+        De acordo com os sindicalistas classistas, o crescimento da miséria foi causado tanto pela pandemia do novo coronavírus quanto pelo descaso do governo da extrema direita para com o povo brasileiro. 
+        “Esse aprofundamento da pobreza e extrema pobreza tem a ver com os impactos da pandemia de Covid e seus efeitos sobre o mercado de trabalho“, disse João Hallak, gerente da pesquisa indicadores sociais do IBGE. “A situação dos trabalhadores no mercado de trabalho foi bem difícil em 2021 e isso tem reflexos nos indicadores sociais.“
+
+        Os parâmetros do IBGE têm como referência os critérios de pobreza adotadas pelo Banco Mundial, que situam a linha de pobreza nos rendimentos equivalentes a 486 reais mensais per capita. Já a linha de extrema pobreza é equivalente a 168 reais mensais per capita. 
+
+        ”É fundamental acompanhar e ter informações sobre a pobreza para que o país possa monitorar, avaliar e investir em melhores ações e políticas para atender as necessidades muito presentes da população brasileira“, disse a jornalistas a coordenadora do IBGE Cristiane Moutinho. 
+
+        Em 2021, a proporção de crianças menores de 14 anos de idade abaixo da linha de pobreza chegou a 46,2%, o maior percentual da série, iniciada em 2012. Em 2020 tinha atingido o menor nível da série (38,6%). 
+        “A proporção de pretos e pardos abaixo da linha de pobreza (37,7%) é praticamente o dobro da proporção de brancos (18,6%). O percentual de jovens de 15 a 29 anos pobres (33,2%) é o triplo dos idosos (10,4%)“, disse o IBGE.
+
+        Nordeste e Norte tinham no ano passado as maiores proporções de pessoas pobres na sua população, 48,7 e 44,9% respectivamente.
+
+        No ano passado, o rendimento domiciliar per capita chegou ao menor nível da série histórica, iniciada em 2012: 1.353 reais.
+
+        “A recuperação do mercado de trabalho em 2021 não foi suficiente para reverter as perdas de 2020. Isso e a redução dos valores do Auxílio Emergencial, podem ajudar a explicar esse resultado”, explicou o analista do IBGE André Simões.</corpo>
+        <link>https://www.brasil247.com/brasil/pobreza-e-extrema-pobreza-batem-recorde-no-brasil-sob-governo-bolsonaro</link>
+    </postagem>
+
+
+        <postagem>
+        <capa>p3.jpg</capa>
+        <imagem>ods1.jpg</imagem>
+        <imagem2>p4.jpg</imagem2>
+        <titulo>Mundo não eliminará pobreza extrema em 2030, alerta Banco Mundial</titulo>
+        <subtitulo>O atraso se deve, segundo a instituição financeira, à pandemia, que provocou o maior aumento da pobreza desde 1990, tendência que poderia ser reforçada com a guerra da Ucrânia.</subtitulo>
+        <data>05/10/2022</data>
+        <p1>O mundo não conseguirá erradicar a pobreza extrema em 2030, data estabelecida pela Assembleia Geral da ONU para cumprir com seus Objetivos de Desenvolvimento Sustentável adotados em 2015, estimou o Banco Mundial (BM) em um relatório nesta quarta-feira (5).</p1>
+        <corpo>O atraso se deve, segundo a instituição financeira, à pandemia de covid-19, que provocou o maior aumento da pobreza desde 1990, tendência que poderia ser reforçada com a guerra da Ucrânia, segundo seu relatório anual sobre a pobreza.
+
+        Cerca de 70 milhões de pessoas caíram na pobreza extrema em 2020, segundo o BM, que estima que quase 720 milhões de pessoas viviam com menos de 2,15 dólares por dia no final desse ano.
+
+        Durante a pandemia, a renda dos 40% mais pobres, muitas vezes procedentes da economia informal em muitos países, caiu em média duas vezes mais do que os dos 20% mais ricos, aprofundando as desigualdades.
+        "Inflação, desvalorizações cambiais e crises sobrepostas" apontam para uma perspectiva sombria, disse o presidente do Banco Mundial, David Malpass, em nota.
+
+        "O progresso na redução da pobreza extrema estagnou junto com o crescimento econômico global moderado", acrescentou.
+
+        A África Subsaariana concentra 60% dos mais pobres, ou seja, quase 390 milhões de pessoas, com uma taxa de pobreza de 35%.
+
+        Para eliminar a pobreza extrema no continente africano para 2030, o Banco Mundial estima que seria necessário um crescimento de 9% por ano em cada país desta região no final da década, "uma marca particularmente alta para países cujo crescimento do PIB per capita foi em média de 1,2% durante a década anterior à pandemia", estima o Banco Mundial.
+        
+        "Investir em melhores serviços de saúde e educação será crucial para as economias em desenvolvimento na próxima década", disse o economista-chefe do Banco Mundial, Indermit Gill.
+        Para reverter a tendência, a instituição pede aos governos que direcionem melhor a ajuda para reservá-la para os mais pobres, incentivem o investimento em educação, pesquisa e desenvolvimento e considerem uma tributação que leve mais em consideração as rendas.</corpo>
+        <link>https://g1.globo.com/economia/noticia/2022/10/05/mundo-nao-eliminara-pobreza-extrema-em-2030-alerta-banco-mundial.ghtml</link>
     </postagem>
 </conteudo>
