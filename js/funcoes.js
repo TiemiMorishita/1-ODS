@@ -55,12 +55,9 @@ function texto(){
               }
             }
 
-                function f1(){
-    //Armazena a URL completa, ex: http://localhost:81/blog/postagem.html?codigo_postagem=2
+    function f1(){
     url = new URL(window.location.href);
-    //Armazena o parâmetro, ex: codigo_postagem=2
     parametro = url.searchParams;
-    //Armazena a id, ex: 2
     i = parametro.get("codigo_postagem");
 
       document.write(
@@ -69,11 +66,8 @@ function texto(){
     }
 
     function f2(){
-    //Armazena a URL completa, ex: http://localhost:81/blog/postagem.html?codigo_postagem=2
     url = new URL(window.location.href);
-    //Armazena o parâmetro, ex: codigo_postagem=2
     parametro = url.searchParams;
-    //Armazena a id, ex: 2
     i = parametro.get("codigo_postagem");
 
       document.write(
@@ -95,11 +89,8 @@ function texto(){
     }
 
     function f3(){
-    //Armazena a URL completa, ex: http://localhost:81/blog/postagem.html?codigo_postagem=2
     url = new URL(window.location.href);
-    //Armazena o parâmetro, ex: codigo_postagem=2
     parametro = url.searchParams;
-    //Armazena a id, ex: 2
     i = parametro.get("codigo_postagem");
 
       document.write(
@@ -110,11 +101,8 @@ function texto(){
     }
 
     function f4(){
-    //Armazena a URL completa, ex: http://localhost:81/blog/postagem.html?codigo_postagem=2
     url = new URL(window.location.href);
-    //Armazena o parâmetro, ex: codigo_postagem=2
     parametro = url.searchParams;
-    //Armazena a id, ex: 2
     i = parametro.get("codigo_postagem");
 
       document.write(
@@ -128,11 +116,8 @@ function texto(){
     }
 
     function f5(){
-    //Armazena a URL completa, ex: http://localhost:81/blog/postagem.html?codigo_postagem=2
     url = new URL(window.location.href);
-    //Armazena o parâmetro, ex: codigo_postagem=2
     parametro = url.searchParams;
-    //Armazena a id, ex: 2
     i = parametro.get("codigo_postagem");
 
         document.write( 
@@ -144,11 +129,8 @@ function texto(){
     }
 
     function f6(){
-    //Armazena a URL completa, ex: http://localhost:81/blog/postagem.html?codigo_postagem=2
     url = new URL(window.location.href);
-    //Armazena o parâmetro, ex: codigo_postagem=2
     parametro = url.searchParams;
-    //Armazena a id, ex: 2
     i = parametro.get("codigo_postagem");
 
     for(a = x.length-1; a >= 0; a--){
